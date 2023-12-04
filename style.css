@@ -6,27 +6,33 @@ html {
   box-sizing: inherit;
 }
 
-* {
+body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: rgb(30, 30, 30);
-  color: rgb(255, 255, 255);
-  margin: 15px 10px;
+  width: 1000px;
+  margin: 0 auto;
 }
 
 h1 {
   font-size: 48px;
   font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+ul {
+  padding: 0;
+  text-align: center;
 }
 
 li {
-  font-size: 18px;
+  display: inline-block;
+  font-size: 24px;
+  padding: 12px;
+  border: 6px dotted rgb(60, 60, 60);
+  margin: 0 50px;
 }
 
-img {
-  height: 400px;
-  width: auto;
-}
-
-em {
-  margin: 0px;
+a {
+  color: white;
 }
