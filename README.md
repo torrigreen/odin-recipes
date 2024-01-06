@@ -1,3 +1,3 @@
 # recipes website
 
-[live site](https://torrigreen.github.io/odin-recipes)
+[live site](https://torrigreen.github.io/recipes)
